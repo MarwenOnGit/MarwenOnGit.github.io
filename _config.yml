@@ -13,10 +13,10 @@ timezone:
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-
 title: m0rgxn # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+
+tagline: Welcome aboard # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -27,9 +27,6 @@ url: ""
 
 github:
   username: "MarwenOnGit" # change to your GitHub username
-
-twitter:
-  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
