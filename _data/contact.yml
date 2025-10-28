@@ -9,6 +9,7 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
+  url:  "marouan.benhmed@etudiant-enit.utm.tn"
 
 - type: rss
   icon: "fas fa-rss"
