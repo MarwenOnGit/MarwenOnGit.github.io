@@ -4,16 +4,25 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Hi 👋, I'm Marouan Ben Hmed
+Hi, I'm Marouan Ben Hmed 👋
 
-### Cybersecurity Enthusiast 
+I'm a software engineering student at **ENIT** with a strong passion for offensive security. My focus is on learning to think like an attacker to build stronger, more resilient defenses—especially for web applications.
 
-- 🔭 I'm currently working on **HTB machines and HTB academy making sure to put all the things that I learn to the test in real-world scenarios.**
+---
 
-- 📫 How to reach me **marwenbenahmed89@gmail.com**
+### What I'm Doing
 
-- 👨‍💻 All of my projects are available at **[https://MarwenOnGit.github.io](https://MarwenOnGit.github.io)**
+* 🔭 I'm constantly honing my skills on **Hack The Box** machines and **HTB Academy** modules, applying theoretical knowledge to practical, real-world scenarios.
 
+* ✍️ This site serves as my digital lab notebook. You can find all my **CTF writeups** and project notes in the **[Blog](/posts)** section.
+
+* 📫 You can reach me directly at **[marwenbenahmed89@gmail.com](mailto:marwenbenahmed89@gmail.com)** or through the social links in the sidebar.
+
+---
+
+### My Toolkit
+
+Here are some of the languages and tools I'm proficient with:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/MarwenOnGit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MarwenOnGit" height="30" width="40" /></a>
