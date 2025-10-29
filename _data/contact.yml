@@ -8,6 +8,10 @@
   noblank: true # open link in current tab
   url:  "marouan.benhmed@etudiant-enit.utm.tn"
 
+- type: hackthebox
+  icon: "fas fa-box"
+  url: "https://app.hackthebox.com/profile/m0rgxn"
+
 
 # Uncomment and complete the url below to enable more contact options
 #
